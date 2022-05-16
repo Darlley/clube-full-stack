@@ -1,8 +1,5 @@
 <?php
-
-$title = "Home";
-$name = "Darlley";
-
+    require_once 'var.php'
 ?>
 <!DOCTYPE html>
 <html lang="en">
